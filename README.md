@@ -1,11 +1,11 @@
 # r-
-  储存R代码
-  git简明指南
-  http://rogerdudler.github.io/git-guide/index.zh.html
-  git documents
-  https://book.git-scm.com/docs/git
-  markdown 
-  https://www.appinn.com/markdown/
+ - 储存R代码
+ - git简明指南
+ - http://rogerdudler.github.io/git-guide/index.zh.html
+-  git documents
+-  https://book.git-scm.com/docs/git
+-  markdown 
+ - https://www.appinn.com/markdown/
 ### 区块引用 Blockquotes
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
